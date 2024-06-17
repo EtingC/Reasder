@@ -5,7 +5,7 @@ tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.2"
-port: 8080
+port: 4396
 description: >-
   Add your app's description here.
 
